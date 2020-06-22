@@ -1,0 +1,22 @@
+body
+{
+  background-color: #f1c6de;
+}
+
+h1
+{
+   color: #cc0e74;
+  font-size: 55px;
+  font-family: cursive;
+}
+
+img
+{
+  height: 300px;
+}
+
+p
+{
+  font-size: 16px;
+  font-family: cursive;
+}
